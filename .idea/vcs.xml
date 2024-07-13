@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/SimpleElastix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/Elastix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/GTest-prefix/src/GTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/ITK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/ITK/Modules/Remote/SimpleITKFilters" vcs="Git" />
+  </component>
+</project>
