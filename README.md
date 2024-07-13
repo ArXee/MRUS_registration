@@ -10,7 +10,7 @@ This is a project on MR to US registration. The project uses two methods: Localn
 ```bash
 - pip install -r requirements.txt
 ```
-- For the installSitk install,try the following command:
+- For the Sitk install,try the following command:
 ```bash
   pip install SimpleITK
 ```
@@ -29,5 +29,3 @@ This is a project on MR to US registration. The project uses two methods: Localn
    python model_nonrigid.py
 ```
 
-# Initial commit
-# Initial commit
